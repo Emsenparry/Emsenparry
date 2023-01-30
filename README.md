@@ -1,5 +1,5 @@
 # About Me:
-Student at TECHCOLLEGE<br>- Web Developer (Front-end)
+Student at TECHCOLLEGE<br>- Front-End Developer
 
 
 # 💻 Tech Stack:
